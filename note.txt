@@ -1,0 +1,12 @@
+tsc --init
+
+tsc filename --watch
+
+================================================================
+Add react-- typeScript::::::::::::::::
+
+1>npx create-react-app myapp --typeScript
+2>npm i --save typeScript @types/node @types/react @types/react-dom @types/jest
+
+
+all .js|.JSX file to .ts|.tsx
